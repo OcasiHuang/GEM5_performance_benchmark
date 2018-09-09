@@ -1,0 +1,4 @@
+Files modified for SRRIP-HP implement on Gem5:
+/src/mem/cache/blk.hh
+/src/mem/cache/tags/lru.cc
+/src/mem/cache/tags/lru.hh
